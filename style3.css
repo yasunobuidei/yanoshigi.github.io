@@ -6,7 +6,12 @@ a {
         color: #4d4d4d;;
       }
 
-
+#menu{width: 40px;
+                display: block; 
+                margin: auto;
+                position: absolute;
+                top:44px;
+                left:30px;}
 
 @media screen and (min-width:1200px) {
      #logog{width: 300px;
