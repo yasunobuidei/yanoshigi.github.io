@@ -6,7 +6,7 @@ a {
         color: #4d4d4d;;
       }
 
-#menu{width: 40px;
+#menu{width: 0px;
                 display: block; 
                 margin: auto;
                 position: absolute;
@@ -366,6 +366,13 @@ a {
              position: absolute;
              top:10px;
              left:100px;}
+             #menu{width: 40px;
+                display: block; 
+                margin: auto;
+                position: absolute;
+                top:44px;
+                left:30px;}
+
       
       h1{font-family: 'Noto Serif JP', serif;
               font-size:9px;
